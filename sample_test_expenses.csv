@@ -1,0 +1,21 @@
+expense_id,employee_id,department,employee_role,expense_category,amount,payment_method,vendor,business_purpose,approval_status,hour,day_of_month,day_of_week,is_weekend,employee_category_avg,category_avg_amount,monthly_employee_spend,transaction_frequency
+EXP-1001,EMP-5012,Engineering,Software Engineer,Food,450.00,Corporate Card,Subway,Team Lunch,Approved,13,12,2,0,520.00,859.02,3200.00,6
+EXP-1002,EMP-5012,Engineering,Software Engineer,Office Supplies,1250.00,Corporate Card,Staples,Monitor stand & cables,Approved,15,14,4,0,1400.00,1744.61,4450.00,7
+EXP-1003,EMP-3041,Sales,Sales Executive,Client Meeting,3200.00,Corporate Card,Marriott Dining,Quarterly Client Review,Approved,19,10,0,0,3100.00,3160.51,18500.00,8
+EXP-1004,EMP-3041,Sales,Sales Executive,Travel,7500.00,Corporate Card,Indigo Airlines,Client Site Visit - Mumbai,Approved,9,18,1,0,7200.00,7750.52,26000.00,9
+EXP-1005,EMP-1088,Finance,Financial Analyst,Communication,1150.00,Company Account,Airtel Enterprise,Monthly Mobile Reimbursement,Approved,11,5,3,0,1200.00,1286.12,1150.00,1
+EXP-1006,EMP-2190,Marketing,Marketing Specialist,Food,9850.00,Reimbursement,Luxury Bistro,Department Dinner,Pending,2,28,6,1,850.00,859.02,28500.00,15
+EXP-1007,EMP-4011,Operations,Operations Associate,Equipment,48500.00,Reimbursement,Local Electronics Hub,Urgent Server Spare,Pending,3,27,5,1,12000.00,19018.09,65000.00,14
+EXP-1008,EMP-3041,Sales,Sales Executive,Entertainment,9950.00,Reimbursement,Club Royale,Prospect Entertaining,Pending,23,29,0,0,4200.00,4736.99,35950.00,10
+EXP-1009,EMP-6022,Administration,Office Administrator,Office Supplies,50000.00,Reimbursement,Metro Wholesaler,Bulk Annual Stationery,Approved,16,15,1,0,2500.00,1744.61,52500.00,3
+EXP-1010,EMP-7714,HR,HR Business Partner,Training,10200.00,Corporate Card,Coursera for Business,Technical Upskilling Batch,Approved,14,8,2,0,9800.00,10498.95,10200.00,1
+EXP-1011,EMP-5012,Engineering,Software Engineer,Transportation,380.00,Corporate Card,Uber,Late night commute,Approved,21,16,3,0,410.00,426.70,4830.00,8
+EXP-1012,EMP-8831,Marketing,Marketing Director,Hotel,5400.00,Corporate Card,Taj Bangalore,Annual Brand Summit,Approved,18,22,2,0,5100.00,5181.75,22000.00,5
+EXP-1013,EMP-2190,Marketing,Marketing Specialist,Client Meeting,9750.00,Reimbursement,The Oberoi Lounge,Vendor Sourcing Discussion,Pending,1,30,1,0,2800.00,3160.51,38250.00,16
+EXP-1014,EMP-9015,Operations,Operations Manager,Equipment,18500.00,Company Account,Dell Official,Replacement Developer Laptop,Approved,12,11,4,0,17500.00,19018.09,18500.00,1
+EXP-1015,EMP-4011,Operations,Operations Associate,Transportation,4500.00,Reimbursement,Private Chauffeur,Emergency Logistics Dispatch,Pending,4,29,2,0,450.00,426.70,69500.00,15
+EXP-1016,EMP-1088,Finance,Financial Analyst,Food,720.00,Corporate Card,Chai Point,Team Refreshment,Approved,16,19,4,0,800.00,859.02,1870.00,2
+EXP-1017,EMP-3041,Sales,Sales Executive,Hotel,5150.00,Corporate Card,Hyatt Regency,Sales Pitch Trip,Approved,20,12,3,0,5300.00,5181.75,41100.00,11
+EXP-1018,EMP-6022,Administration,Office Administrator,Food,20000.00,Reimbursement,Catering Services,Office Anniversary Snacks,Approved,14,25,4,0,1200.00,859.02,72500.00,4
+EXP-1019,EMP-7714,HR,HR Business Partner,Communication,1250.00,Corporate Card,Zoom Video Comms,Webinar License,Approved,10,6,0,0,1100.00,1286.12,11450.00,2
+EXP-1020,EMP-2190,Marketing,Marketing Specialist,Entertainment,9900.00,Reimbursement,Skyline Lounge,Influencer Outreach Dinner,Pending,2,27,5,1,3500.00,4736.99,48150.00,17

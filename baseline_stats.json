@@ -1,0 +1,61 @@
+{
+  "amount": {
+    "mean": 5178.1438,
+    "median": 2126.225,
+    "std": 7850.191,
+    "p95": 19281.5785,
+    "p99": 37758.8234
+  },
+  "modified_z_score": {
+    "mean": 0.3228,
+    "median": 0.0,
+    "std": 1.3314,
+    "p95": 2.8476,
+    "p99": 5.1044
+  },
+  "amount_to_emp_cat_ratio": {
+    "mean": 0.7835,
+    "median": 0.6202,
+    "std": 0.6759,
+    "p95": 1.9996,
+    "p99": 3.2383
+  },
+  "amount_to_cat_avg_ratio": {
+    "mean": 0.5292,
+    "median": 0.4218,
+    "std": 0.4022,
+    "p95": 1.2921,
+    "p99": 2.0065
+  },
+  "transaction_frequency": {
+    "mean": 8.7144,
+    "median": 7.0,
+    "std": 7.0493,
+    "p95": 22.0,
+    "p99": 30.0
+  },
+  "category_medians": {
+    "Client Meeting": 3160.51,
+    "Communication": 1286.12,
+    "Entertainment": 4736.99,
+    "Equipment": 19018.09,
+    "Food": 859.02,
+    "Hotel": 5181.75,
+    "Office Supplies": 1744.61,
+    "Training": 10498.95,
+    "Transportation": 426.7,
+    "Travel": 7750.52
+  },
+  "category_mads": {
+    "Client Meeting": 1024.18,
+    "Communication": 335.88,
+    "Entertainment": 1721.02,
+    "Equipment": 7435.17,
+    "Food": 331.88,
+    "Hotel": 1701.55,
+    "Office Supplies": 730.37,
+    "Training": 3542.76,
+    "Transportation": 154.77,
+    "Travel": 2740.99
+  }
+}

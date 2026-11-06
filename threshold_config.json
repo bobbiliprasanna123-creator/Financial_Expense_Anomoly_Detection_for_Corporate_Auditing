@@ -1,0 +1,8 @@
+{
+  "optimal_threshold": 0.95,
+  "precision_at_threshold": 0.9644,
+  "recall_at_threshold": 0.8696,
+  "f05_at_threshold": 0.9438,
+  "false_positives_reduced": 514,
+  "cost_saving_inr": 192750.0
+}

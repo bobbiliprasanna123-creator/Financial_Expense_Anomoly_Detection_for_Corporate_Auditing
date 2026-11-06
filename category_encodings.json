@@ -1,0 +1,136 @@
+{
+  "department": {
+    "values": [
+      "Administration",
+      "Engineering",
+      "Finance",
+      "HR",
+      "Marketing",
+      "Operations",
+      "Sales"
+    ],
+    "code_map": {
+      "Administration": 0,
+      "Engineering": 1,
+      "Finance": 2,
+      "HR": 3,
+      "Marketing": 4,
+      "Operations": 5,
+      "Sales": 6
+    }
+  },
+  "employee_role": {
+    "values": [
+      "Account Manager",
+      "Admin Lead",
+      "Content Lead",
+      "Controller",
+      "Director of Engineering",
+      "Engineering Manager",
+      "Facilities Coordinator",
+      "Facilities Director",
+      "Finance Manager",
+      "Financial Analyst",
+      "Front Desk Coordinator",
+      "Growth Manager",
+      "HR Associate",
+      "HR Business Partner",
+      "HR Director",
+      "HR Manager",
+      "Junior Accountant",
+      "Logistics Coordinator",
+      "Marketing Associate",
+      "Marketing Director",
+      "Marketing Specialist",
+      "Office Administrator",
+      "Operations Associate",
+      "Operations Manager",
+      "Procurement Specialist",
+      "Sales Director",
+      "Sales Executive",
+      "Senior Accountant",
+      "Senior Sales Executive",
+      "Senior Software Engineer",
+      "Software Engineer",
+      "Talent Acquisition Specialist",
+      "Tech Lead",
+      "VP of Operations",
+      "VP of Sales"
+    ],
+    "code_map": {
+      "Account Manager": 0,
+      "Admin Lead": 1,
+      "Content Lead": 2,
+      "Controller": 3,
+      "Director of Engineering": 4,
+      "Engineering Manager": 5,
+      "Facilities Coordinator": 6,
+      "Facilities Director": 7,
+      "Finance Manager": 8,
+      "Financial Analyst": 9,
+      "Front Desk Coordinator": 10,
+      "Growth Manager": 11,
+      "HR Associate": 12,
+      "HR Business Partner": 13,
+      "HR Director": 14,
+      "HR Manager": 15,
+      "Junior Accountant": 16,
+      "Logistics Coordinator": 17,
+      "Marketing Associate": 18,
+      "Marketing Director": 19,
+      "Marketing Specialist": 20,
+      "Office Administrator": 21,
+      "Operations Associate": 22,
+      "Operations Manager": 23,
+      "Procurement Specialist": 24,
+      "Sales Director": 25,
+      "Sales Executive": 26,
+      "Senior Accountant": 27,
+      "Senior Sales Executive": 28,
+      "Senior Software Engineer": 29,
+      "Software Engineer": 30,
+      "Talent Acquisition Specialist": 31,
+      "Tech Lead": 32,
+      "VP of Operations": 33,
+      "VP of Sales": 34
+    }
+  },
+  "expense_category": {
+    "values": [
+      "Client Meeting",
+      "Communication",
+      "Entertainment",
+      "Equipment",
+      "Food",
+      "Hotel",
+      "Office Supplies",
+      "Training",
+      "Transportation",
+      "Travel"
+    ],
+    "code_map": {
+      "Client Meeting": 0,
+      "Communication": 1,
+      "Entertainment": 2,
+      "Equipment": 3,
+      "Food": 4,
+      "Hotel": 5,
+      "Office Supplies": 6,
+      "Training": 7,
+      "Transportation": 8,
+      "Travel": 9
+    }
+  },
+  "payment_method": {
+    "values": [
+      "Company Account",
+      "Corporate Card",
+      "Reimbursement"
+    ],
+    "code_map": {
+      "Company Account": 0,
+      "Corporate Card": 1,
+      "Reimbursement": 2
+    }
+  }
+}
