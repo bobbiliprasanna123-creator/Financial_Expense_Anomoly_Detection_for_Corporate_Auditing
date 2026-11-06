@@ -1,6 +1,6 @@
-# Expense Intelligence Platform — HCL Audit Analytics
+# Expense Intelligence Platform — Audit Analytics
 
-An AI-assisted corporate expense risk prioritization and audit analytics platform built for **HCL Technologies**. The system analyzes corporate expense transactions, calculates statistical deviations from historical employee and category baselines, predicts anomaly likelihood using a gradient-boosted tree ensemble model, and generates an explainable, prioritized audit queue for compliance officers and auditors.
+An AI-assisted corporate expense risk prioritization and audit analytics platform. The system analyzes corporate expense transactions, calculates statistical deviations from historical employee and category baselines, predicts anomaly likelihood using a gradient-boosted tree ensemble model, and generates an explainable, prioritized audit queue for compliance officers and auditors.
 
 > **Disclaimer**: This system prioritizes transactions for audit review based on statistical risk indicators. It does not determine policy violations or misconduct. Final audit decisions remain with the authorised human auditor.
 
@@ -60,7 +60,7 @@ flowchart TD
 ## Project Structure
 
 ```
-HCL_Final_Project/
+Financial_Expense_Anomoly_Detection_for_Corporate_Auditing/
 ├── app.py                     # Main Streamlit application and UI interface
 ├── best_anomaly_model.pkl     # Trained tree-based anomaly detection ensemble model
 ├── baseline_stats.json        # Historical per-category medians, MADs, and spend percentiles
@@ -195,7 +195,7 @@ The platform integrates **SHAP (SHapley Additive exPlanations)** via `shap.TreeE
 
 ### 1. Clone or Open the Project
 ```bash
-cd c:\Users\PRASANNA\OneDrive\Documents\HCL_Final_Project
+cd Financial_Expense_Anomoly_Detection_for_Corporate_Auditing
 ```
 
 ### 2. Set Up a Virtual Environment
@@ -244,7 +244,7 @@ When uploading a corporate expense ledger CSV, the file must include the followi
 
 *Optional metadata columns recognized by the UI: `expense_id`, `employee_id`, `vendor`, `business_purpose`, `approval_status`, `day_of_week`.*
 
-A pre-formatted sample file with 20 realistic transactions is available at [`sample_test_expenses.csv`](file:///c:/Users/PRASANNA/OneDrive/Documents/HCL_Final_Project/sample_test_expenses.csv).
+A pre-formatted sample file with 20 realistic transactions is available at `sample_test_expenses.csv`.
 
 ---
 
@@ -268,4 +268,4 @@ A pre-formatted sample file with 20 realistic transactions is available at [`sam
 
 ---
 
-*HCL Audit Analytics Platform v2.0 — Confidential & Proprietary*
+*Audit Analytics Platform v2.0*

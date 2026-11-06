@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 
 BASE_DIR = Path(__file__).resolve().parent
 
-st.set_page_config(page_title="Expense Intelligence | HCL Audit Analytics", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Expense Intelligence | Audit Analytics", layout="wide", initial_sidebar_state="expanded")
 
 st.markdown("""
 <style>
@@ -186,9 +186,9 @@ with st.sidebar:
         st.markdown(f"<div style='display:flex;align-items:center;gap:10px;padding:7px 0;border-bottom:1px solid #1E293B;'><div style='width:3px;height:30px;background:{color};border-radius:2px;flex-shrink:0;'></div><div><div style='font-size:0.78rem;font-weight:600;color:#E2E8F0;'>{tier} - {label}</div><div style='font-size:0.68rem;color:#64748B;'>{rule}</div></div></div>", unsafe_allow_html=True)
     st.markdown("<div style='height:20px'></div>", unsafe_allow_html=True)
     st.markdown("<div style='background:#1E293B;border-radius:6px;padding:10px 14px;display:flex;align-items:center;gap:8px;'><div style='width:8px;height:8px;background:#22C55E;border-radius:50%;flex-shrink:0;'></div><div><span style='font-size:0.72rem;color:#94A3B8;font-weight:600;'>MODEL STATUS</span><span style='font-size:0.72rem;color:#22C55E;font-weight:700;margin-left:6px;'>Operational</span></div></div>", unsafe_allow_html=True)
-    st.markdown("<div style='font-size:0.62rem;color:#334155;margin-top:16px;text-align:center;'>HCL Audit Analytics Platform v2.0</div>", unsafe_allow_html=True)
+    st.markdown("<div style='font-size:0.62rem;color:#334155;margin-top:16px;text-align:center;'>Audit Analytics Platform v2.0</div>", unsafe_allow_html=True)
 
-st.markdown("<div style='margin-bottom:20px;'><div style='font-size:1.55rem;font-weight:700;color:#0F172A;letter-spacing:-0.02em;'>Expense Intelligence Platform</div><div style='font-size:0.87rem;color:#64748B;margin-top:3px;'>AI-assisted expense risk prioritization and audit analytics | HCL Technologies</div></div>", unsafe_allow_html=True)
+st.markdown("<div style='margin-bottom:20px;'><div style='font-size:1.55rem;font-weight:700;color:#0F172A;letter-spacing:-0.02em;'>Expense Intelligence Platform</div><div style='font-size:0.87rem;color:#64748B;margin-top:3px;'>AI-assisted expense risk prioritization and audit analytics</div></div>", unsafe_allow_html=True)
 
 tab1, tab2 = st.tabs(["  Overview Dashboard  ", "  Transaction Risk Analysis  "])
 
