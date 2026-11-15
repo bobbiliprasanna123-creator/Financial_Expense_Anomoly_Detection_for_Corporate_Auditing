@@ -21,3 +21,8 @@ Thumbs.db
 
 # Streamlit local state
 .streamlit/secrets.toml
+
+# Archives
+*.zip
+*.tar.gz
+
