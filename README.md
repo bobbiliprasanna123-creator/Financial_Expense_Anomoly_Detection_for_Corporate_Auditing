@@ -1,5 +1,11 @@
 # Expense Intelligence Platform — Audit Analytics
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://financialanomalydetection.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/bobbiliprasanna123-creator/Financial_Expense_Anomoly_Detection_for_Corporate_Auditing)
+
+> 🚀 **Live Web Application**: [https://financialanomalydetection.streamlit.app/](https://financialanomalydetection.streamlit.app/)  
+> 📁 **GitHub Repository**: [https://github.com/bobbiliprasanna123-creator/Financial_Expense_Anomoly_Detection_for_Corporate_Auditing](https://github.com/bobbiliprasanna123-creator/Financial_Expense_Anomoly_Detection_for_Corporate_Auditing)
+
 An AI-assisted corporate expense risk prioritization and audit analytics platform. The system analyzes corporate expense transactions, calculates statistical deviations from historical employee and category baselines, predicts anomaly likelihood using a gradient-boosted tree ensemble model, and generates an explainable, prioritized audit queue for compliance officers and auditors.
 
 > **Disclaimer**: This system prioritizes transactions for audit review based on statistical risk indicators. It does not determine policy violations or misconduct. Final audit decisions remain with the authorised human auditor.
